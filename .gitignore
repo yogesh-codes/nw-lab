@@ -1,0 +1,30 @@
+# Executable files
+*.exe
+*.out
+*.bin
+
+# Object files
+*.o
+
+# Debug files
+*.pdb
+
+# Build folders
+build/
+Debug/
+Release/
+
+# Dependency folders
+deps/
+
+# VS Code folders
+.vscode/
+
+# Editor backup files
+*~
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
